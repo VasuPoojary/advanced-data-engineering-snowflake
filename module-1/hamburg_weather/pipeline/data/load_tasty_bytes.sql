@@ -1,6 +1,6 @@
 USE ROLE accountadmin;
 
-
+--test
 /*--
 database, schema and warehouse creation
 --*/
